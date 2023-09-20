@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\Clase6\practicaenclase\bin\Debug\practicaenclase.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\Clase6\practicaenclase\bin\Debug\practicaenclase.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\Clase6\practicaenclase\bin\Debug\practicaenclase.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\Clase6\practicaenclase\obj\Debug\practicaenclase.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\Clase6\practicaenclase\obj\Debug\practicaenclase.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\Clase6\practicaenclase\obj\Debug\practicaenclase.pdb
